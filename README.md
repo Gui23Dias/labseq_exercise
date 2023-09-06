@@ -44,6 +44,6 @@ Follow these steps to run the LabSeq Project:
 ## Bookmarks
 
 - Link to the [Web Application](http://localhost:3000/)
-- Link to the [API Documentation](http://localhost:8080/swagger.html)
+- Link to the [API Documentation](http://localhost:8080/swagger.html/)
 
 
