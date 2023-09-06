@@ -6,7 +6,7 @@ The LabSeq Project is a Java-based application designed for returning the values
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Running the Application](#running-the-application)
-- [Accessing Webapp and Swagger Documentation](#bookmarks)
+- [Accessing Webapp and Swagger Documentation](#links)
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ Follow these steps to run the LabSeq Project:
     npm install   # or yarn install
     npm start     # or yarn start
 
-## Bookmarks
+## Links
 
 - Link to the [Web Application](http://localhost:3000/)
 - Link to the [API Documentation](http://localhost:8080/swagger.html)
