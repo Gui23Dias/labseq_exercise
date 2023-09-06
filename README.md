@@ -1,6 +1,3 @@
-# labseq_exercise
-Labseq webapp calculator.
-
 # LabSeq Exercise
 
 The LabSeq Project is a Java-based application designed for returning the values of a labseq sequence.
