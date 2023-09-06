@@ -26,7 +26,7 @@ Follow these steps to run the LabSeq Project:
 1. Clone the project repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/Gui23Dias/labseq-project.git
+   git clone https://github.com/Gui23Dias/labseq_exercise.git
 
 2. Start the backend server
 
